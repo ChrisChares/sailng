@@ -12,9 +12,7 @@ More features are planned like i18n, plus I might modify the Gruntfile to run js
 You will need to have Sails 0.11.0-rc5 installed on your machine (sudo npm install sails@0.11.0-rc5 -g) and then clone the repo, cd into the project directory and run
 
     $ npm install
-    $ cd assets
     $ bower install
-    $ cd ../
     $ sails lift
 
 Check it out at [http://localhost:1337](http://localhost:1337)
